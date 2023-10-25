@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1698231399" />
+    <testcase name="test_case" classname="test_case" file="/home/khaja/Desktop/venv/git_VLSI/q1/test_case.py" lineno="16" time="0.0035779476165771484" sim_time_ns="70.001" ratio_time="19564.56815512761" />
+  </testsuite>
+</testsuites>
